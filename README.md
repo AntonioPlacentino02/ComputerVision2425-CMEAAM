@@ -1,4 +1,10 @@
 # ComputerVision2425-CMEAAM
+# CILAB & University of Bari "Aldo Moro"
+Placentino Antonio Pio - M.Sc. Student 
+Castellano Giovanna - Professor
+Rinaldi Ivan - Ph.D. Student
+
+
 "Cross-Modal Emotion Analysis in Art and Music" project. Official Repository. 
 code_documentation_cv_placentino_antonio_pio.ipynb contains the code documentation of the project. 
 
